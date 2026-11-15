@@ -1,1 +1,14 @@
+# macOS files
 .DS_Store
+
+# Course videos
+Course Videos/
+*.mp4
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
